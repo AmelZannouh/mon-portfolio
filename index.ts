@@ -1,0 +1,31 @@
+const projectImages = [
+  '/images/projects/AppMobConnexion.png',
+  '/images/projects/ImageReact.png',
+  '/images/projects/test.mp4',
+  '/images/projects/VideoPrince.mp4',
+  '/images/projects/VideoReact.mp4',
+  '/images/projects/VideoRecette.mp4',
+  '/images/projects/RecetteJava.png',
+  '/images/projects/ImageJs.png',
+  '/images/projects/VideoFlagWeather.mp4',
+  '/images/projects/ImageAgenda.png',
+  '/images/projects/ImageEtudiant.png',
+  '/images/projects/VideoAgenda.mp4',
+  '/images/projects/VideoEtudiant.mp4',
+];
+
+export const [
+  AppMobConnexion,
+  ImageReact,
+  test,
+  VideoPrince,
+  VideoReact,
+  VideoRecette,
+  RecetteJava,
+  ImageJs,
+  VideoFlagWeather,
+  ImageAgenda,
+  ImageEtudiant,
+  VideoAgenda,
+  VideoEtudiant,
+] = projectImages;
